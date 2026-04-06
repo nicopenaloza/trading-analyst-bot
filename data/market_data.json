@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": {
+      "ticker": "GGAL",
+      "market": "BYMA",
+      "name": "GRUPO FINANCIERO GALICIA SA"
+    },
+    "open": 6850,
+    "high": 6990,
+    "low": 6730,
+    "close": 6890,
+    "volume": 3106120,
+    "timestamp": "2026-04-01T20:12:23.000Z"
+  }
+]

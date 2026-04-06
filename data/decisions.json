@@ -1,0 +1,60 @@
+[
+  {
+    "symbol": {
+      "ticker": "GGAL",
+      "market": "BYMA"
+    },
+    "signal": "BUY",
+    "confidence": 0.75,
+    "reason": "COMBINED_ANALYSIS",
+    "reasoning": "RSI de 67.1 muestra presión alcista sin llegar a zona de sobrecompra. EMA20 supera a EMA50 en 1.2%, confirmando tendencia alcista. MACD en territorio positivo con histograma de 1.0486 ganando momentum. El análisis de noticias registra sentimiento fuertemente positivo (0.7) con impacto alto (0.75), impulsado por utilidades récord con aumento de 34% en resultado neto. Aunque existe presión regulatoria del BCRA, los resultados operacionales sólidos refuerzan la visión alcista.",
+    "technicalAnalysis": {
+      "symbol": {
+        "ticker": "GGAL",
+        "market": "BYMA"
+      },
+      "rsi": 67.09590937278688,
+      "ema20": 1015.6319299825266,
+      "ema50": 1003.9678860050365,
+      "macd": {
+        "value": 9.42364306476361,
+        "signal": 8.375014307879402,
+        "histogram": 1.0486287568842076
+      },
+      "trend": "BULLISH",
+      "calculatedAt": "2026-04-06T02:05:28.596Z"
+    },
+    "newsAnalysis": {
+      "symbol": {
+        "ticker": "GGAL",
+        "market": "BYMA"
+      },
+      "items": [
+        {
+          "headline": "Grupo Galicia reportó utilidades récord en el último trimestre",
+          "summary": "El banco registró una suba del 34% en su resultado neto, impulsado por mayor volumen de créditos y comisiones.",
+          "source": "El Cronista",
+          "publishedAt": "2026-04-06T02:05:28.596Z"
+        },
+        {
+          "headline": "GGAL supera expectativas del mercado en resultados trimestrales",
+          "summary": "Analistas destacaron la solidez del margen financiero y la baja en la morosidad.",
+          "source": "Ámbito Financiero",
+          "publishedAt": "2026-04-05T02:05:28.596Z"
+        },
+        {
+          "headline": "Sector bancario argentino enfrenta presión regulatoria",
+          "summary": "El BCRA anunció nuevas restricciones que podrían afectar la rentabilidad de los bancos en el corto plazo.",
+          "source": "Infobae",
+          "publishedAt": "2026-04-04T02:05:28.596Z"
+        }
+      ],
+      "overallSentiment": "POSITIVE",
+      "sentimentScore": 0.68,
+      "impactScore": 0.75,
+      "summary": "Grupo Galicia reportó resultados financieros sólidos con utilidades récord y un crecimiento del 34% en resultado neto, superando las expectativas del mercado gracias a mayor volumen de créditos, comisiones y márgenes financieros mejorados con baja morosidad. Sin embargo, el sector bancario argentino enfrenta presión regulatoria del BCRA que podría impactar la rentabilidad en el corto plazo, lo cual representa un riesgo a considerar a pesar del sólido desempeño operativo actual del banco.",
+      "analyzedAt": "2026-04-06T02:05:36.688Z"
+    },
+    "generatedAt": "2026-04-06T02:06:01.768Z"
+  }
+]

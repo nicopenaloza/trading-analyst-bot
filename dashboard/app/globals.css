@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --scrollbar-bg:    #0f1623;
+  --scrollbar-thumb: #1f2d42;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-bg);
+}
+
+body {
+  background-color: #080c14;
+  color: #e2e8f0;
+}

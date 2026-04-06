@@ -1,0 +1,3 @@
+- Do not recommend BUY if technical and news conflict strongly
+- Prefer HOLD in uncertain conditions
+- High confidence requires alignment between signals

@@ -1,0 +1,3 @@
+- Avoid high confidence decisions without strong signals
+- Never assume infinite liquidity
+- Consider volatility in decision confidence

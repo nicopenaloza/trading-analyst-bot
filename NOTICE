@@ -1,0 +1,18 @@
+Trading Bot BYMA/CEDEARs
+Copyright 2026 Nicolas Ariel Peñaloza
+
+=========================================================================
+Third-party licenses and notices
+=========================================================================
+
+This project relies on the following third-party software:
+
+- yahoo-finance2
+  Copyright (c) 2021 Gadi Cohen and contributors
+  Licensed under the MIT License
+  https://github.com/gadicc/node-yahoo-finance2
+
+- Anthropic Claude SDK
+  Copyright (c) Anthropic
+  Licensed under the MIT License
+  https://github.com/anthropics/anthropic-sdk-typescript

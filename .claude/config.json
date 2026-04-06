@@ -1,0 +1,11 @@
+{
+  "model": "claude-sonnet-4-6",
+  "max_iterations": 8,
+  "temperature": 0.2,
+  "tool_choice": "auto",
+  "allowed_tools": [
+    "technical_analysis",
+    "news_analysis",
+    "market_data"
+  ]
+}
